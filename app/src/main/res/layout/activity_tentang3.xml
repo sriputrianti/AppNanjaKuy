@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="\t\tGunung Soputan adalah gunung berapi yang terletak di provinsi Sulawesi Utara, Indonesia. Gunung ini terbentuk pada masa Kuarterner di tepi selatan kaldera Tondano, dan merupakan salah satu gunung api teraktif di
+            Sulawesi. Tercatat telah terjadi letusan yang cukup sering dalam rentang waktu beberapa tahun sekali."
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:layout_centerInParent="true"/>
+
+    </ScrollView>
+</RelativeLayout>

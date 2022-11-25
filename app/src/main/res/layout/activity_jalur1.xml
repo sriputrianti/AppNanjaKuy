@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="\t\tJalur pendakian Gunung Bawakaraeng terletak di Desa Lembanna, Kecamatan Tinggi Moncong, atau sering dikenal dengan “Wisata Malino”. Letak Desa Lembanna (1.400 mdpl) adalah di sisi barat laut Puncak Bawakaraeng. Selain itu, ada juga alternatif jalur lain yakni melalui Jalur Tassoso (1.320 mdpl) yang terletak di sisi timur laut dari Puncak Bawakaraeng.
+
+Jalur Lembanna sendiri adalah jalur yang paling populer. Melakukan pendakian lewat jalur ini dibutuhkan waktu sekitar 2-3 hari untuk sampai di puncak dan turun kembali. Trek awalnya berupa kawasan perkebunan, lalu dilanjutkan dengan kawasan hutan, dan selanjutnya trek bebatuan dengan vegetasi rendah.
+
+Puncak gunung ini berupa lahan yang cukup luas dan terdapat pilar penanda puncak. Saat berada di puncaknya, lo bisa melihat puncak Gunung Lompobattang yang lokasinya masih berdekatan dengan Gunung Bawakaraeng. Nggak jarang pula pendaki yang melanjutkan perjalanan menuju Puncak Lompobattang (dan sebaliknya)."
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:layout_centerInParent="true"/>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

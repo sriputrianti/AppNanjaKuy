@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EVALUASI</string>
+    <string name="title">title</string>
+    <string name="nama_gunung">nama_gunung</string>
+    <array name="datapoto">
+        <item>@drawable/gunung_bawa</item>
+        <item>@drawable/gunung_ambang</item>
+        <item>@drawable/gunung_soputan</item>
+    </array>
+    <string-array name="data_name">
+        <item>BAWAKARAENG</item>
+        <item>AMBANG</item>
+        <item>SOPUTAN</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

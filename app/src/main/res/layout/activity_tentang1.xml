@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="\t\tGunung ini konon menjadi sumber air bagi kehidupan di Kabupaten Gowa, Sulawesi Selatan, dan beberapa wilayah lain di sekelilingnya. Gunung yang memiliki ketinggian sekitar 2.845 meter di atas permukaan laut ini juga sangat cocok dijadikan lokasi pendakian gunung.
+
+Tentang nama Bawakaraeng sendiri, gunung ini memiliki arti tersendiri, Bawa yang artinya ‘mulut’ dan Karaeng yang artinya ‘Tuhan’. Jadi, Gunung Bawakaraeng bisa diartikan sebagai ‘Mulut Tuhan’. Penganut sinkretisme di wilayah sekitar gunung ini meyakini kalau Gunung Bawakaraeng adalah tempat pertemuan para wali.
+
+Sebenarnya masih ada banyak penafsiran tentang penamaan tersebut, salah satunya mengartikan Gunung Bawakaraeng adalah tempat buat berdoa kepada Tuhan. Selain itu, gunung ini juga disebut ‘Butta Toayya’, yang berarti ‘tanah yang dituakan’. Masyarakat setempat juga meyakini kalau Gunung Bawakaraeng adalah tempat leluhur mereka, jadi harus disakralkan atau dihormati.
+
+Gunung Bawakaraeng sendiri merupakan puncak gunung yang masuk ke dalam kawasan Pegunungan Lompobattang. Beberapa puncak lainnya yang masuk dalam kawasan ini yaitu Gunung Lompobattang, Gunung Assuempolong, Gunung Kaca, Gunung Ko’bong, Gunung Baria, dan Gunung Porong.
+
+Menariknya lagi, ada beberapa satwa endemik Sulawesi yang bisa lo temui di kawasan pegunungan tersebut, seperti anoa dan babirusa. Selain itu, lo juga bisa melihat berbagai macam flora yang banyak dijumpai, seperti pinus, anggrek, dan juga lumut."
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:layout_centerInParent="true"/>
+
+    </ScrollView>
+</RelativeLayout>
